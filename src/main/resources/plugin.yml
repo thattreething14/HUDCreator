@@ -1,0 +1,7 @@
+name: HUDCreator
+version: '${version}'
+main: tree.hudcreator.HUDCreatorPlugin
+api-version: '1.20'
+commands:
+  shift:
+    description: d
